@@ -1,0 +1,3 @@
+FORM : prueba (
+TEXTFIELD:clase
+)
